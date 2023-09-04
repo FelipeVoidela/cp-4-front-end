@@ -1,0 +1,8 @@
+body{ font-family: 'Heebo', sans-serif;
+}
+:root{
+    --color-blue:#F4F5F9 
+}
+.bg-blue{
+    background-color: var(--color-blue); 
+}
